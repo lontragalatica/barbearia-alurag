@@ -1,13 +1,11 @@
-h1{color: rgb(4, 0, 255);
-    background-color: rgba(2, 115, 132, 0.545);
-    font-size: xx-large;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
-}
+h1{
+    background-color: rgba(39, 89, 95, 0.545);
+
+    }
 nav{
     position: absolute;
-    top: 50%;
-    left: 40%;
+    top: 15%;
+    left: 70%;
 }
 
 nav a{
@@ -23,5 +21,13 @@ margin: 0 0 0 5px;
 
 .caixa {
     position: relative;
-    width: 940px
+    width: 100%;
         }
+
+
+.servicos li {
+    display: inline-block;
+}
+.prooduto{
+    width: 50%;
+}
